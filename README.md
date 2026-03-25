@@ -1,2 +1,3 @@
-# dashboard_moneter
-Dashboard Moneter Harian
+pandas
+plotly
+st-annotated-text
